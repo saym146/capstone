@@ -2,3 +2,4 @@
 invoice-extractor/resource/*
 **/__pycache__/*
 **/.env
+/.vs
