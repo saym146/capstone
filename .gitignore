@@ -1,0 +1,4 @@
+**/.vscode/*
+invoice-extractor/resource/*
+**/__pycache__/*
+**/.env
