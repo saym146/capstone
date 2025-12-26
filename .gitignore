@@ -3,3 +3,4 @@ invoice-extractor/resource/*
 **/__pycache__/*
 **/.env
 /.vs
+**local.settings.json

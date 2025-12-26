@@ -1,0 +1,4 @@
+azure-functions
+aiohttp
+python-dotenv
+openai
